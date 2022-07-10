@@ -12,6 +12,8 @@ php -S localhost:8000
 
 ![](not-logged.png)
 
+After the Authorization you will be given a code. You can use this to get an access token.
+
 ![](authh.png)
 
 # List Repos
